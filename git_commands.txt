@@ -1,0 +1,4 @@
+
+git init
+git remote add origin git@github.com:maxskomorohov/test_repo.git
+git commit -m "Initial commit"
