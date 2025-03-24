@@ -11,4 +11,5 @@ git commit -m "Initial commit"
 git push --set-upstream origin main
 
 
-
+git log - история всех коммитов
+git checkout <hash коммита> - перейти в конкретный коммит
