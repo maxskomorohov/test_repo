@@ -14,3 +14,8 @@ git push
 
 git log - история всех коммитов
 git checkout <hash коммита> - перейти в конкретный коммит
+
+git branch - список веток, что существуют в git
+git branch <feature> - создание новой ветки
+
+git checkout feature - переход с ветки на ветку
