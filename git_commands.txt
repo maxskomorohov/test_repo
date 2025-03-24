@@ -2,10 +2,13 @@
 git init
 git remote add origin git@github.com:maxskomorohov/test_repo.git
 
-git add .
+git status - показывает файл и папки, которые не отслеживаются remote repo
+
+git add . - добавить все файлы
+git add README.md git_commands.txt main.py - добавить конкретные файлы и папки
+
 git commit -m "Initial commit"
 git push --set-upstream origin main
 
 
-git status - показывает файл и папки, которые не отслеживаются remote repo
 
