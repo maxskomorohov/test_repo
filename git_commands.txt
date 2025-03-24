@@ -20,3 +20,5 @@ git branch <feature> - создание новой ветки
 
 git checkout feature - переход с ветки на ветку
 
+
+git rebase feature - альтернативный способ мержа
